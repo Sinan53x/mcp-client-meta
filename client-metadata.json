@@ -1,8 +1,8 @@
 {
-  "client_id": "https://gist.githubusercontent.com/Sinan53x/5023ccfb43d165dd563140bd43d312ae/raw/client-metadata.json",
+  "client_id": "https://sinan53x.github.io/mcp-client-meta/client-metadata.json",
   "client_name": "Devin CLI",
   "redirect_uris": ["http://localhost:8791/callback"],
-  "grant_types": ["authorization_code", "refresh_token", "urn:ietf:params:oauth:grant-type:device_code"],
+  "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
   "token_endpoint_auth_method": "none",
   "scope": "refs:read saves:write"
